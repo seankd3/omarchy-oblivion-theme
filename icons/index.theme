@@ -1,0 +1,12 @@
+[Icon Theme]
+Name=Cinema-Oblivion
+Comment=Folders for the Oblivion film theme
+Inherits=Yaru-blue,Yaru,hicolor
+Directories=scalable/places
+
+[scalable/places]
+Context=Places
+Size=64
+MinSize=8
+MaxSize=512
+Type=Scalable
